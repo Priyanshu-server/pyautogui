@@ -1,0 +1,1 @@
+some pyautogui based projects
